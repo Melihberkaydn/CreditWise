@@ -1,7 +1,5 @@
-# Next.js + Contentlayer
+# CreditWise: Instant Credit Scoring Service
 
-A template with Next.js 13 app dir, Contentlayer, Tailwind CSS and dark mode.
+React Front-End Application of CreditWise. Easy-to-use UI expedites the decision-making processes, aiding financial advisors/managers in their decisions.
 
-https://next-contentlayer.vercel.app
-
-
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=nuqT19uQjao)
