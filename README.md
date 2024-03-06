@@ -1,5 +1,4 @@
 # CreditWise: Instant Credit Scoring Service
-
 React Front-End Application of CreditWise. Easy-to-use UI expedites the decision-making processes, aiding financial advisors/managers in their decisions.
 
 ## Demo
